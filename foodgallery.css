@@ -1,0 +1,193 @@
+body {
+  background-color: rgb(86, 87, 84);
+}
+
+h1 {
+  text-align: center;
+  font-family: 'DynaPuff', cursive;
+  color: rgb(74, 231, 228);
+  font-size: 40px;
+}
+
+.img1 {
+  margin-left: 45px;
+  margin-top: -58px;
+  width: 150px;
+  height: 150px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+div {
+
+  text-align: center;
+  margin-left: -12px;
+  margin-top: -128px;
+  font-size: large;
+  font-family: 'Oswald', sans-serif;
+  letter-spacing: 1mm;
+}
+
+/* without underline for link */
+
+a:link {
+  text-decoration: none;
+
+}
+
+/* to give under line on clicking link */
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* to give link color */
+
+a:visited {
+  color: rgb(251, 251, 251);
+}
+
+button {
+  width: 120px;
+  height: 50px;
+  border: 2px solid black;
+  border-radius: 36px;
+  margin-left: 1270px;
+  margin-top: -13px;
+  background-color: rgb(229, 226, 13);
+  color: rgb(11, 6, 67);
+  font-size: medium;
+  font-family: 'Qwitcher Grypen', cursive;
+}
+
+#icon {
+  /* width: 0px;
+  height: 0px; */
+  text-align: left;
+  margin-left: 5px;
+  color: rgb(250, 157, 28);
+}
+
+#icon1 {
+  margin-left: 1350px;
+}
+
+#icon2 {
+  margin-left: 1400px;
+}
+
+#icon3 {
+  margin-left: 1450px;
+}
+
+#bg1 {
+  width: 102%;
+  height: 262px;
+  background-image: url(./Images/food2.jpg);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.b {
+  font-family: ff-good-headline-web-pro-condensed;
+  color: rgb(0, 0, 0);
+  font-size: 1cm;
+  text-align: center;
+  font-weight: 600;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-top: 5px;
+  width: 750px;
+  margin-left: 382px;
+  margin-top: 23px;
+  display: block;
+}
+.p1{
+  font-family: 'Alumni Sans Pinstripe', sans-serif;
+  letter-spacing: 1mm;
+  word-spacing: .5cm;
+  font-size: large;
+  color: beige;
+  display: block;
+  font-style: normal;
+  font-weight: 300;
+  text-align: center;
+  line-height: 1.5em;
+}
+
+.parent {
+  width: 102%;
+  height: 600px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-left: -8px;
+  margin-top: 0px;
+  background-image: url(./Images/bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+h3 {
+  font-family: 'DynaPuff', cursive;
+  font-size: 1cm;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 53px;
+  color: rgb(255, 200, 19);
+}
+
+.col {
+  width: 306px;
+  height: 439px;
+  border: 2px solid rgb(255, 255, 255);
+  background-color: white;
+  margin-top: 0px;
+  color: black;
+  padding-top: 1cm;
+}
+
+img{
+  width: 306px;
+  height:  250px;
+}
+p{
+  font-family: 'Qwitcher Grypen', cursive;
+  font-size: small;
+}
+.p3{
+  color: rgb(255, 0, 0);
+  font-family: 'Permanent Marker', cursive;
+  font-size: large;
+  margin-left: -120px;
+  font-style: oblique;
+}
+.button1{
+  width: 117px;
+  height: 44px;
+  border-radius: 0px;
+  background-color: rgb(48, 224, 8);
+  color: white;
+  font-size: large;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+margin-top: -8px;
+margin-left: 150px;
+}
+
+button:hover {
+  background-color: rgb(0, 0, 0);
+  color:  rgb(48, 224, 8);
+}
+#name{
+  font-size:x-large;
+  color: rgb(10, 20, 134);
+}
+h4{
+  font-family: 'Pacifico', cursive;
+  margin-top: -141px;
+  color: rgb(244, 244, 244);
+  font-size: 1cm;
+  background-color:rgb(24, 190, 208);
+  border-radius: 9px;
+}
